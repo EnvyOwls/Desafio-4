@@ -2,9 +2,10 @@
 
 Se pide que desarrollemos una red neuronal que recomiende ropa que se parezca.
 
-Para poder ejecutar el programa es necesario descargar el siguiente [DataSet](https://github.com/OptativoPUCV/Fashion-DataSet).
+Para poder ejecutar el programa es necesario descargar el siguiente [DataSet](https://github.com/OptativoPUCV/Fashion-DataSet)(Se descargan ambos CSV).
 Una vez descargado se almacena en la carpeta del proyecto.
 
+![Vista previa de donde dejar los CSV](https://imgur.com/a/vaCAUpK)
 
 La red desarrollada esta conformada por las clases:
 
