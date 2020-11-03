@@ -15,3 +15,5 @@ La red desarrollada esta conformada por las clases:
 
 El dataset utilizado se comprende de dos .CSV, los cuales suman un total de 70.000 prendas.
 De ellas, se usaron 50.000 para entrenar la red y las 20.000 restantes se utilizaron para testeo.
+
+Para ejecutar el programa solo es necesario correrlo.
